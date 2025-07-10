@@ -64,7 +64,7 @@ If you’re a content strategist or social media manager, the key takeaways are:
 
 -Sponsored content, while less frequent, tends to yield higher CTRs across most regions.
 
-![Dashboard Snapshot Here]
+
 <img width="1348" height="748" alt="social media nalysis page 1" src="https://github.com/user-attachments/assets/4f6c8aaa-de6a-42ee-b642-0a8c5cfae08b" />
 <img width="1330" height="738" alt="social analysis page 2" src="https://github.com/user-attachments/assets/bef5d0a5-6b59-493d-858a-cb99ad9eccb7" />
 
@@ -76,7 +76,7 @@ Main Insight 2: Sponsored posts average a CTR of 2.8+, slightly outperforming or
 Main Insight 3: Facebook has the highest impressions but comparatively lower engagement rates.
 Main Insight 4: Posts tagged with Product Promotion or Educational content perform better across all platforms.
 
-📊 Visual: Bar Chart – Engagement by Platform & Post Type
+📊 Visual: Engagement by Platform & Post Type
 <img width="782" height="692" alt="image" src="https://github.com/user-attachments/assets/9bd14579-03f5-47bd-9078-22515c9ada41" />
 
 <img width="807" height="777" alt="image" src="https://github.com/user-attachments/assets/36cd4d71-82a2-4077-82e6-ddcb10b48ffe" />
@@ -87,7 +87,7 @@ Main Insight 2: Regions like Germany and India show high impressions but lower c
 Main Insight 3: Japan recorded the highest CTR at 3.07, suggesting high content relevance.
 Main Insight 4: Regional video viewership is highest in North America and South America.
 
-📊 Visual: ZoomCharts Map + Regional Table + Bar Chart for Views
+📊 Visual: Regional Table + Bar Chart for Engagements
 <img width="782" height="652" alt="image" src="https://github.com/user-attachments/assets/01fe1f15-5a53-4268-8787-211e5c09f1ca" />
 
 ### ⏰ Category 3: Timing Optimization
@@ -96,7 +96,7 @@ Main Insight 2: Weekdays (especially Tuesdays and Thursdays) outperform weekends
 Main Insight 3: TimeSeries charts show afternoon posting drives consistent video views.
 Main Insight 4: There is a weak correlation between Post_Hour and Engagement, suggesting it's more about content type than exact hour.
 
-📊 Visual: TimeSeries ZoomChart + Heatmap or Hourly Area Chart
+📊 Visual: TimeSeries Hourly Area Chart
 <img width="806" height="768" alt="image" src="https://github.com/user-attachments/assets/1a0c01fc-da68-4428-a467-04eade01efbd" />
 <img width="806" height="765" alt="image" src="https://github.com/user-attachments/assets/b3d240ad-3a43-48ff-b6aa-fc000c83f27d" />
 
@@ -107,7 +107,7 @@ Main Insight 2: Hashtag usage increased CTRs by 8–10% on average when combined
 Main Insight 3: Educational and Product-related categories lead in impressions and clicks.
 Main Insight 4: Scatter plot shows moderate correlation between content category and engagement rate.
 
-📊 Visual: Matrix Chart (Hashtag vs CTR), Scatter Plot – Category vs Engagement
+📊 Visual: Main HashTag vs Engagement
 <img width="378" height="686" alt="image" src="https://github.com/user-attachments/assets/0ab18cd6-cef2-4f1c-8ff5-43232671f1d1" />
 
 ## Recommendations
