@@ -1,4 +1,4 @@
-<img width="806" height="768" alt="image" src="https://github.com/user-attachments/assets/91f71b9d-2410-4ee7-8dbe-a6a05e70fe9a" /># Social Media Performance Analysis Documentation
+# Social Media Performance Analysis Documentation
 
 ## Project BackGround
 
