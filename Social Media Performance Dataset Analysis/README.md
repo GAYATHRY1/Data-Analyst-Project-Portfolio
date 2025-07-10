@@ -1,4 +1,4 @@
-# Social Media Analysis Documentation
+# Social Media Performance Analysis Documentation
 
 ## Project BackGround
 
@@ -38,6 +38,7 @@ Post_Hour, Post_Date, Post_Published_At
 Region, Engagement, Views, Impressions, CTR
 
 Video_Views, Live_Stream_Views, Main_Hashtag
+
 [Entity Relationship Diagram – Single Table Star Schema]
 
 Initial checks involved:
@@ -60,6 +61,7 @@ Educational content consistently drives the highest engagement across platforms.
 Posting between 11 AM and 4 PM leads to peak interaction, especially on weekdays.
 
 Sponsored content, while less frequent, tends to yield higher CTRs across most regions.
+
 ![Dashboard Snapshot Here]
 
 ## 📌 Insights Deep Dive
