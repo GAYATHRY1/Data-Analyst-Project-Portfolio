@@ -39,7 +39,9 @@ Region, Engagement, Views, Impressions, CTR
 
 Video_Views, Live_Stream_Views, Main_Hashtag
 
-[Entity Relationship Diagram – Single Table Star Schema]
+
+<img width="1125" height="653" alt="image" src="https://github.com/user-attachments/assets/d0a0b765-cc75-4f96-920b-084f01017856" />
+
 
 Initial checks involved:
 
